@@ -1,3 +1,5 @@
+> **Moved.** This repository now lives in [github.com/EndlessRay/asha-benchmarks](https://github.com/EndlessRay/asha-benchmarks) under the repository root (model cards, register, healthbench-5000-2026-09-20/), with its full commit history. This copy is archived read-only so published links keep working.
+
 # DNAi models: cards, benchmarks, artifacts
 
 Public record of the AI systems DNAi Systems ships, what each one is, and what each has been measured to do. Asha ([askasha.org](https://askasha.org)) is the medical agent; Harley, Artha, Sage, Polymath, Lyra, Leo, Mira, Ren, Arohi and Ray are the other agents of the fleet, reachable over the A2A protocol.
